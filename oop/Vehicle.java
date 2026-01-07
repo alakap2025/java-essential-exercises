@@ -1,5 +1,6 @@
 /*
  * Click `Run` to execute the snippet below!
+ * Inheritance + Overriding
  */
 
 import java.io.*;
