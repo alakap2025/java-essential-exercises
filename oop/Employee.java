@@ -1,5 +1,6 @@
 
 /*
+ENCAPSULATION
  * Click `Run` to execute the snippet below!
  */
 
